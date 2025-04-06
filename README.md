@@ -8,8 +8,8 @@ Each folder represents a separate Zindi challenge, containing my notebooks, expl
 
 ## 🧪 Challenges
 - [☀️ Solar Panel Detection & Counting](./Solar_Panel_Detection_Counting)
-- [💉 Blood Donation Prediction](./Blood_Donation_Prediction)
-- [🚖 Taxi Demand Forecasting](./Taxi_Demand_Forecasting)
+- [🌱 CGIAR Root Volume Estimation Challenge](./CGIAR_Root_Volume_Estimation)
+
 
 ## 📌 Notes
 - All notebooks were developed using Jupyter/Google Colab.
