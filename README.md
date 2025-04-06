@@ -7,8 +7,8 @@ This repository archives my solutions to past Zindi data science competitions.
 Each folder represents a separate Zindi challenge, containing my notebooks, explanations, and any additional notes or dependencies.
 
 ## 🧪 Challenges
-- [☀️ Solar Panel Detection & Counting](./Solar_Panel_Detection_Counting)
-- [🌱 CGIAR Root Volume Estimation Challenge](./CGIAR_Root_Volume_Estimation)
+- [☀️ Lacuna_Solar_Survey_Challenge](./Lacuna_Solar_Survey_Challenge)
+- [🌱 CGIAR_Root_Volume_Estimation_Challenge](./CGIAR_Root_Volume_Estimation_Challenge)
 
 
 ## 📌 Notes
