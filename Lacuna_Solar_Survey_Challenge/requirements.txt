@@ -1,0 +1,12 @@
+torch 
+torchvision 
+torchaudio 
+timm 
+albumentations 
+pandas 
+opencv-python 
+scikit-learn 
+numpy 
+tqdm 
+matplotlib 
+torch-xla
