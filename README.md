@@ -9,6 +9,8 @@ Each folder represents a separate Zindi challenge, containing my notebooks, expl
 ## 🧪 Challenges
 - [☀️ Lacuna_Solar_Survey_Challenge](./Lacuna_Solar_Survey_Challenge)
 - [🌱 CGIAR_Root_Volume_Estimation_Challenge](./CGIAR_Root_Volume_Estimation_Challenge)
+- [⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge](./IBM SkillsBuild Hydropower Climate Optimisation Challenge)
+
 
 
 ## 📌 Notes
