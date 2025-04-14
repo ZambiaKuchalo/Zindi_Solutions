@@ -79,7 +79,7 @@ pip install polars sktime optuna pmdarima openpyxl workalendar catboost lightgbm
 ---
 
 ## 🧪 Results
-
+- **RSME XGB: 4.92389054, LGB: 5.583192817, CAT: 5.385226374
 - **RMSE (Meta Learner on training data)**: ~3.89
 - **Best Weighted Blend (Grid Search)**: Optimal RMSE with weights for XGB, LGB, CAT.
 
