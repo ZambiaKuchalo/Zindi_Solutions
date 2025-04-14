@@ -1,0 +1,31 @@
+# Core Data and Machine Learning
+polars>=0.20.0
+pandas>=1.5.3
+numpy>=1.24.0
+scikit-learn>=1.2.2
+
+# Time Series and Optimization
+sktime>=0.24.1
+pmdarima>=2.0.3
+optuna>=3.1.0
+
+# Gradient Boosting Libraries
+catboost>=1.2
+lightgbm>=4.1.0
+xgboost>=1.7.4
+
+# Deep Learning Tabular
+pytorch-tabnet>=4.1.0
+
+# File Handling
+openpyxl>=3.1.2
+fastexcel>=0.10.0
+
+# Calendar Utilities
+workalendar>=17.0.0
+
+# Visualization
+matplotlib>=3.7.1
+
+# Kaggle Dataset Downloader
+kagglehub>=0.1.6
