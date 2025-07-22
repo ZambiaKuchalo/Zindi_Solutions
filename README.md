@@ -8,15 +8,13 @@ Each folder represents a separate Zindi challenge, containing my notebooks, expl
 
 ## 🧪 Challenges
 
-## 🧪 Challenges
-
-* [🩺 Kenya Clinical Reasoning Challenge](./Kenya_Clinical_Reasoning_Challenge)
+* [🩺 Kenya Clinical Reasoning Challenge](./kenya_clinical_reasoning_challenge)
 
 * [☀️ Lacuna Solar Survey Challenge](./Lacuna_Solar_Survey_Challenge)
 
 * [🌱 CGIAR Root Volume Estimation Challenge](./CGIAR_Root_Volume_Estimation_Challenge)
 
-* \[⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge]\(./IBM SkillsBuild Hydropower Climate Optimisation\_Challenge)
+* [⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge](./IBM SkillsBuild Hydropower Climate Optimisation\_Challenge)
 
 
 
