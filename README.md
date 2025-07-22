@@ -7,9 +7,12 @@ This repository archives my solutions to past Zindi data science competitions.
 Each folder represents a separate Zindi challenge, containing my notebooks, explanations, and any additional notes or dependencies.
 
 ## 🧪 Challenges
-- [☀️ Lacuna_Solar_Survey_Challenge](./Lacuna_Solar_Survey_Challenge)
-- [🌱 CGIAR_Root_Volume_Estimation_Challenge](./CGIAR_Root_Volume_Estimation_Challenge)
-- [⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge](./IBM SkillsBuild Hydropower Climate Optimisation Challenge)
+
+-[🩺 Kenya Clinical Reasoning Challenge](./Kenya_Clinical_Reasoning_Challenge)
+-[☀️ Lacuna Solar Survey Challenge](./Lacuna_Solar_Survey_Challenge)
+-[🌱 CGIAR Root Volume Estimation Challenge](./CGIAR_Root_Volume_Estimation_Challenge)
+-[⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge]\(./IBM SkillsBuild Hydropower Climate Optimisation\_Challenge)
+
 
 
 
