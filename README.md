@@ -16,7 +16,7 @@ Each folder represents a separate Zindi challenge, containing my notebooks, expl
 
 * [⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge](./IBM SkillsBuild Hydropower Climate Optimisation\_Challenge)
 
-
+* [⚡ Classification for Landslide Detection](./IBM SkillsBuild Hydropower Climate Optimisation\_Challenge)
 
 
 
